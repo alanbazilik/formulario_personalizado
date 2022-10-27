@@ -1,0 +1,24 @@
+form{
+    background-color: blueviolet;
+}
+label{
+    color: white;
+}
+input.form-control{
+    background-color: violet;
+}
+textarea.form-control{
+    background-color: violet;
+}
+#butos{
+    border: 0;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    position: relative;
+    left: 540px;
+}
